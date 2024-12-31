@@ -1,0 +1,1 @@
+The Firebase SDK might throw an error if the app is offline or has a weak internet connection. This can lead to unexpected behavior and crashes.  For example, attempting to write data to the database while offline will result in a failure, often silently, unless properly handled.
